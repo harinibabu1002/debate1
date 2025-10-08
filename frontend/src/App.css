@@ -1,0 +1,4 @@
+.app { max-width: 600px; margin: 20px auto; text-align: center; }
+input { width: 80%; padding: 10px; margin: 10px 0; }
+button { padding: 10px 20px; background: #007bff; color: white; border: none; }
+pre { text-align: left; background: #f4f4f4; padding: 10px; white-space: pre-wrap; }
